@@ -851,9 +851,13 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int ic_launcher=0x7f020057;
+        public static final int dihua=0x7f020057;
+        public static final int geda_launcher=0x7f020058;
+        public static final int ic_action_search=0x7f020059;
+        public static final int ic_launcher=0x7f02005a;
     }
     public static final class id {
+        public static final int MyActionBar=0x7f07003c;
         public static final int action_bar=0x7f07001c;
         public static final int action_bar_activity_content=0x7f070014;
         public static final int action_bar_container=0x7f07001b;
@@ -865,7 +869,8 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f070015;
         public static final int action_menu_presenter=0x7f070016;
         public static final int action_mode_close_button=0x7f070024;
-        public static final int action_settings=0x7f07003e;
+        public static final int action_search=0x7f07003e;
+        public static final int action_settings=0x7f07003d;
         public static final int activity_chooser_view_content=0x7f070025;
         public static final int always=0x7f07000f;
         public static final int beginning=0x7f07000a;
@@ -875,7 +880,6 @@ containing a value of this type.
         public static final int dialog=0x7f070012;
         public static final int disableHome=0x7f070008;
         public static final int dropdown=0x7f070013;
-        public static final int edit_message=0x7f07003c;
         public static final int edit_query=0x7f070030;
         public static final int end=0x7f07000c;
         public static final int expand_activities_button=0x7f070026;
@@ -888,7 +892,6 @@ containing a value of this type.
         public static final int listMode=0x7f070001;
         public static final int list_item=0x7f070029;
         public static final int middle=0x7f07000b;
-        public static final int myButton=0x7f07003d;
         public static final int never=0x7f07000d;
         public static final int none=0x7f070009;
         public static final int normal=0x7f070000;
@@ -967,13 +970,14 @@ containing a value of this type.
         public static final int abc_searchview_description_voice=0x7f0a000a;
         public static final int abc_shareactionprovider_share_with=0x7f0a000b;
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000c;
-        public static final int action_settings=0x7f0a000d;
-        public static final int app_name=0x7f0a000e;
-        public static final int button_send=0x7f0a000f;
-        public static final int edit_message=0x7f0a0010;
-        public static final int hello_world=0x7f0a0011;
-        public static final int title_activity_display_message=0x7f0a0012;
-        public static final int title_activity_main=0x7f0a0013;
+        public static final int action_search=0x7f0a000d;
+        public static final int action_settings=0x7f0a000e;
+        public static final int app_name=0x7f0a000f;
+        public static final int button_send=0x7f0a0010;
+        public static final int edit_message=0x7f0a0011;
+        public static final int hello_world=0x7f0a0012;
+        public static final int title_activity_display_message=0x7f0a0013;
+        public static final int title_activity_main=0x7f0a0014;
     }
     public static final class style {
         /**  Customize your theme here. 

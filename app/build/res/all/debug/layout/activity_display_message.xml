@@ -9,9 +9,10 @@
     tools:context="com.hyleong.myfirstprj.app.DisplayMessageActivity">
 
     <TextView
+        android:id="@+id/MyActionBar"
         android:text="@string/hello_world"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
 </RelativeLayout>
-<!-- From: file:/D:/Android/workspace/MyFirstPrj/app/src/main/res/layout/activity_display_message.xml -->
+<!-- From: file:/D:/git/workspace/MyfirstPrj/app/src/main/res/layout/activity_display_message.xml -->

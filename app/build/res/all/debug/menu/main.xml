@@ -2,9 +2,16 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.hyleong.myfirstprj.app.MainActivity" >
+
+    <item android:id="@+id/action_search"
+        android:icon="@drawable/ic_action_search"
+        android:title="@string/action_search"
+        android:showAsAction="ifRoom"
+        />
+
     <item android:id="@+id/action_settings"
         android:title="@string/action_settings"
         android:orderInCategory="100"
         app:showAsAction="never" />
 </menu>
-<!-- From: file:/D:/Android/workspace/MyFirstPrj/app/src/main/res/menu/main.xml -->
+<!-- From: file:/D:/git/workspace/MyfirstPrj/app/src/main/res/menu/main.xml -->
